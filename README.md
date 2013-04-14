@@ -1,8 +1,8 @@
-quicklinks
+Quick links
 ==========
 
-Quick link to my favorite companies
-1. [LinkedIn](https://github.com/linkedin)
+### Quick links to my favorite companies/repos
+*  [LinkedIn](https://github.com/linkedin)
 2. [Twitter](https://github.com/twitter)
 3. [Netflix](https://github.com/Netflix)
 4. [Google](https://github.com/google)

@@ -25,5 +25,5 @@ Quick links
 1. https://github.com/thoughtbot
 1. https://github.com/openstack
 1. https://github.com/opscode-cookbooks
-
+1. https://github.com/opscode
 ### REPOS

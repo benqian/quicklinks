@@ -1,7 +1,7 @@
 Quick links
 ==========
 
-### Quick links to my favorite companies/repos
+### Quick links to my favorite companies
 *  [LinkedIn](https://github.com/linkedin)
 2. [Twitter](https://github.com/twitter)
 3. [Netflix](https://github.com/Netflix)
@@ -24,3 +24,6 @@ Quick links
 1. https://github.com/engineyard
 1. https://github.com/thoughtbot
 1. https://github.com/openstack
+1. https://github.com/opscode-cookbooks
+
+### REPOS
